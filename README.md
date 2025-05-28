@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Tiwari</h1>
 
-<p align="center">
+<p align="left">
   💻 Full Stack Developer | BSc (Computer Science) Graduate from Mumbai, India<br>
   🔥 Passionate about MERN Stack and building useful products<br>
   🧠 Always learning something new — right now, deep-diving into backend architecture<br>
