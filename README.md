@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sumit Tiwari!
 
-<!--
-**SumitTiwari03/SumitTiwari03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSc CS Graduate | Full Stack Developer | Passionate about building real-world apps**
 
-Here are some ideas to get you started:
+I’m a self-driven developer who enjoys turning ideas into working software. I specialize in the **MERN stack** and have built full-stack projects including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[ProPeers](https://propeers-07w5.onrender.com)** – A platform for developers to showcase their projects without sharing source code. 
+- **[Portfolio](https://sumit-dev-3426.onrender.com)** – My portfolio website you can also connect from thier. 
+
+---
+
+### 🛠️ Tech Stack:
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Tools:** Git, GitHub, Vercel, Netlify, Render, Spline, Docker
+
+---
+
+### 📈 Currently Learning:
+- System Design Basics  
+- DSA (Leetcode)  
+- Web Security and Authentication
+
+---
+
+### 📫 Let’s connect!
+[LinkedIn](https://www.linkedin.com/in/sumit-tiwari-7a198a241) | [Email](mailto:amantiwari0309@gmail.com)
